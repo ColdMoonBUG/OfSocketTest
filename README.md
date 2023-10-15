@@ -1,0 +1,2 @@
+# OfSocketTest
+使用Socket和ServerSocket实现java的基础聊天室
